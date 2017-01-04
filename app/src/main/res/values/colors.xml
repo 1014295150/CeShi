@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colornomal">#80868B</color>
+    <color name="colorpress">#00B3D4</color>
+
+    <color name="colorbtnnomal">#eee</color>
+    <color name="colorbtnpress">#888</color>
+    <color name="colorwhite">#fdfdfd</color>
+    <color name="colorwhites">#aaa</color>
+
+    <color name="colorbtnnomals">#ccc</color>
+</resources>
